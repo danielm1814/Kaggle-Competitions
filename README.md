@@ -1,2 +1,2 @@
 # Kaggle-Competitions
-My code for different Kaggle Machine Learning Competitions
+My code for the titanic Kaggle Machine Learning Competitions
